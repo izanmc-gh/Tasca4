@@ -1,0 +1,53 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans); /* open-sans-600 - latin */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300&display=swap');
+
+
+
+
+.Ex1 {
+  font-family: 'Georgia', serif;
+  font-size: larger;
+}
+
+.Ex2{
+  font-family: 'Palantino Linotype', serif;
+  font-style: italic;
+}
+
+.Ex3{
+  font-family: 'Times New Roman', serif;
+  font-weight: bolder;
+}
+
+.Ex4{
+  font-family: 'arial', serif;
+  text-shadow: 2px 2px red;
+}
+
+.Ex5{
+  font-family: 'tahoma', serif;
+  text-decoration: underline;
+}
+
+
+.Ex6{
+  font-family: 'Open Sans',serif;
+  text-overflow: ellipsis;
+}
+
+.Ex7{
+  font-family: 'Dancing Script', cursive;
+  text-align: right;
+}
+
+.Ex8{
+  font-family: 'Montserrat', sans-serif;
+  line-height: inherit;
+}
+
+.Ex9{
+  -webkit-text-fill-color: orange;
+  -webkit-text-stroke-width: medium;
+  -webkit-text-stroke-color: black;
+}
