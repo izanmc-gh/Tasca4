@@ -2,52 +2,75 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300&display=swap');
 
+body{
+  font-size: 18px;
+}
 
+.SVG1 {
+  padding: 20px;
+  background-color: red;
+}
 
+.SVG2 {
+  padding: 20px;
+  background-color: orange;
+}
+
+.SVG3 {
+  padding: 20px;
+  background-color: yellow;
+}
 
 .Ex1 {
   font-family: 'Georgia', serif;
-  font-size: larger;
+  font-size: 2cm;
 }
 
 .Ex2{
   font-family: 'Palantino Linotype', serif;
   font-style: italic;
+  font-size: 22px;
 }
 
 .Ex3{
   font-family: 'Times New Roman', serif;
   font-weight: bolder;
+  font-size: 20pt;
 }
 
 .Ex4{
   font-family: 'arial', serif;
   text-shadow: 2px 2px red;
+  font-size: 2em;
 }
 
 .Ex5{
   font-family: 'tahoma', serif;
   text-decoration: underline;
+  font-size: 10rem;
 }
-
 
 .Ex6{
   font-family: 'Open Sans',serif;
   text-overflow: ellipsis;
+  font-size: 100%;
 }
 
 .Ex7{
   font-family: 'Dancing Script', cursive;
   text-align: right;
+  font-size: 10vh;
 }
 
 .Ex8{
   font-family: 'Montserrat', sans-serif;
   line-height: inherit;
+  font-size: 10vw;
 }
 
 .Ex9{
   -webkit-text-fill-color: orange;
   -webkit-text-stroke-width: medium;
   -webkit-text-stroke-color: black;
+  font-size: 10vmin;
 }
